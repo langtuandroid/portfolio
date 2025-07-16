@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "https://tupnblogs.netlify.app"
 defaultContentLanguage = "en"
 languageCode = "en"
 title = "langtujava"
@@ -38,7 +38,7 @@ headerTitle = "Unity Blogs"
 # waline = true
 # walineServer = ""
 
-# email = ""
+ email = "langtujava@gmail.com"
 
 siteStartYear = 2016
 
